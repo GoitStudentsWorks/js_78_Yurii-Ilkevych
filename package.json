@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Cimania-Goit-blended-01/",
+    "build": "vite build --base=/js_78_Yurii-Ilkevych/",
     "preview": "vite preview"
   },
   "devDependencies": {
